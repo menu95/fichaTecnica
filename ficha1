@@ -1,34 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@gabrielfranca95 
-gabrielfranca95
-/
-gabrielfranca95.github.io
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-gabrielfranca95.github.io/index.html
-@gabrielfranca95
-gabrielfranca95 Update index.html
-…
-Latest commit 1952038 on 3 Jan 2021
- History
- 2 contributors
-@gabrielfranca95@Diegooli764
-215 lines (187 sloc)  10.3 KB
-   
+
 <!DOCTYPE html>
 <html>
 <title>Gabriel França</title>
@@ -244,16 +214,4 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 </body>
 </html>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
