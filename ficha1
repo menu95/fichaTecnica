@@ -1,0 +1,259 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@gabrielfranca95 
+gabrielfranca95
+/
+gabrielfranca95.github.io
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+gabrielfranca95.github.io/index.html
+@gabrielfranca95
+gabrielfranca95 Update index.html
+…
+Latest commit 1952038 on 3 Jan 2021
+ History
+ 2 contributors
+@gabrielfranca95@Diegooli764
+215 lines (187 sloc)  10.3 KB
+   
+<!DOCTYPE html>
+<html>
+<title>Gabriel França</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+</style>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-black w3-text-#00E5EE w3-card-4">
+        <div class="w3-display-container">
+          <img src="https://user-images.githubusercontent.com/67255566/85922495-237a3380-b85a-11ea-85c8-711cbde050b1.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-#BCD2EE">
+            <i><h5><span class="w3-tag w3-teal w3-round">Gabriel França</span></h5></i>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Developer</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Brazil, RJ</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>gabrielfurtunatofranca@gmail.com</p>
+          <p><i class="fa fa-whatsapp fa-fw w3-margin-right w3-large w3-text-teal"></i>21-980296467</p>
+          <hr>
+
+          <p class="w3-large"><b><span style='font-size:27px;'>&#128295;</span>Skills</b></p>
+
+          <p>Python</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:65%"></div>
+          </div>
+          <p>HTML/CSS</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:40%"></div>
+          </div>
+          <p>Research skill</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:13%"></div>
+          </div>
+          <p>PostgreSQL/Mysql/MongoDB</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:42%"></div>
+          </div>
+        <!--p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p-->
+          <p>Cloud-AWS</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:47%"></div>
+          </div>
+          <p>Docker</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:20%"></div>
+          </div>
+          <p>TDD</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:26%"></div>
+          </div>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:51%"></div>
+          </div>
+          <p>Git</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:39%"></div>
+          </div>
+          <p>Design Patterns</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:15%"></div>
+          </div>
+          <p>javascript</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:34%"></div>
+          </div>
+          <p>Scrum/kanban</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:77%"></div>
+          </div>
+          <p>ITIL4</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:80%"></div>
+          </div>
+          <p>Lean</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:58%"></div>
+          </div>
+          <p>Sass</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:15%"></div>
+          </div>
+          <p>.NET</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:20%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-black w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b> Developer </b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2018 - 2020 </h6>
+          <p>Developing solutions, in my experiences are cloud development with AWS in creating skills for alexa dot, integration for donation getwey with visacheckout and cielo APIs, development of apps for google play bots and chatbots.</p>
+          <hr>
+        </div>
+
+
+      </div>
+
+      <div class="w3-container w3-card w3-black w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet"><i class="em em-scroll" aria-role="presentation" aria-label="SCROLL"></i>Certifications</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>ITIL V4 FOUNDATION / AXELOS</b></h5>
+          <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">Certified</span></h6>
+          
+          <hr>
+        </div>
+
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Scrum Professional Certificate / certiprof</b></h5>
+          <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">Certified</span></h6></h6>
+            
+            <hr>
+
+          </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>International Test Process Advanced Certified(ITPA) / scrum as</b></h5>
+          <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">Certified</span></h6>
+            
+            <hr>
+          </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Certification in Lean Six-Sigma Green Belt / EDTI</b></h5>
+          <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">Certified</span></h6></h6>
+          
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Scrum Foundation / scrumstudy</b></h5>
+          <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">Certified</span></h6></h6>
+          <hr>
+        </div>
+      </div>
+
+
+      <div class="w3-container w3-card w3-black">
+        <h2 class="w3-text-grey w3-padding-16"><link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet"><i class="em em-mortar_board" aria-role="presentation" aria-label="GRADUATION CAP"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Systems developer analyst / Faculdade Católica Paulista</b></h5>
+          <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">University graduate</span><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020 - 2022</h6>
+          <p>Content
+            curricular: Software modeling, Internet of things, Software quality control, Systems architecture, Software engineering, Agile methodologies, Development frameworks, Mobile programming, Data science and data mining, Artificial intelligence, Cybersecurity.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Python Developer Full Stack (100hr)  DIO- Digital inovation one</b></h5>
+          <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">Bootcamp</span><i class="fa fa-calendar fa-fw w3-margin-right"></i>2019 - 2020</h6>
+          <p>Content seen: jQuery library, ReactJS Concepts, PostgreSQL, Django, Flask and RestAPI</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+            <h5 class="w3-opacity"><b>Node.js development (120hr)  DIO- Digital inovation one</b></h5>
+            <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">Bootcamp</span><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020</h6>
+            <p>Content seen: map, filter reduce, promises, understanding async and await, Node with express, introduction to domain driven and architectural patterns.</p>
+            <hr>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Global development Full stack (97hr) DIO- Digital inovation one</b></h5>
+            <h6 class="w3-text-teal"><span class="w3-tag w3-teal w3-round">Bootcamp</span><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020</h6>
+            <p>Content seen: Tests with flask, Agile projects with scrum, HTML and CSS, Javascript ES6, Git and version control, Github and teamwork.</p>
+            <hr>
+          </div>
+      </div>
+
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find e on social media.</p>
+  <!--i class="fa fa-facebook-official w3-hover-opacity"></i-->
+  <a href="https://github.com/gabrielfranca95" target="_blank"><i class="fa fa-github w3-hover-opacity"></i></a>
+  <a href="https://www.instagram.com/?hl=pt-br" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+  
+  <!--i class="fa fa-pinterest-p w3-hover-opacity"></i-->
+  <a href="https://www.youtube.com/channel/UCYCgl1WIKyYhn6ruiu9o_Zg" target="_blank"><i style="font-size:18px" class="fa">&#xf16a;</i></a>
+  <a href="https://www.linkedin.com/in/gabriel-fran%C3%A7a-588ab7198/" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+  <p>Powered by <a href="https://gabrielfranca95.github.io" target="_blank">Gabriel França</a></p>
+</footer>
+
+</body>
+</html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
