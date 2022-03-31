@@ -30,9 +30,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
+        <!--absaixo escreva os dados 1 do seu personagem-->
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Developer</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Brazil, RJ</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>gabrielfurtunatofranca@gmail.com</p>
+          <p>gabrielfurtunatofranca@gmail.com</p>
           <p><i class="fa fa-whatsapp fa-fw w3-margin-right w3-large w3-text-teal"></i>21-980296467</p>
           <hr>
 
